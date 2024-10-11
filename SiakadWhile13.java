@@ -37,5 +37,6 @@ public class SiakadWhile13 {
 
             i++;
         }
+        sc.close();
     }
 }
